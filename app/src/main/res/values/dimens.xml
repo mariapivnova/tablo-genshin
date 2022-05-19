@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">50dp</dimen>
+    <dimen name="tr_20">20dp</dimen>
+    <dimen name="ts_20">20dp</dimen>
+    <dimen name="fon_circle">20dp</dimen>
+    <dimen name="txt_size" />
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="second_dot">:</string>
+    <string name="venty">Венти</string>
+    <string name="xily">Хиличурлы</string>
+    <string name="score_of_match">Счет матча</string>
+    <string name="reset_score">Обнулить счёт</string>
+    <string name="image_of_venty">Изображение Венти</string>
+    <string name="image_of_xily">Изображение Хиличурла</string>
+</resources>

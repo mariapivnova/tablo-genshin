@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">football scoreboard</string>
+    <string name="xily" translatable="false">Hilichurl</string>
+    <string name="score_of_match" translatable="false">Match score</string>
+    <string name="reset_score" translatable="false">Reset the account</string>
+    <string name="image_of_venty" translatable="false">Image Venty</string>
+    <string name="image_of_xily" translatable="false">Image Hilichurl</string>
+    <string name="second_dot">:</string>
+    <string name="venty">Venty</string>
+</resources>
