@@ -8,4 +8,8 @@
     <string name="image_of_xily" translatable="false">Image Hilichurl</string>
     <string name="second_dot">:</string>
     <string name="venty">Venty</string>
+    <string name="winx" translatable="false">Winx</string>
+    <string name="trix">Trix</string>
+    <string name="image_of_trix">Image Trix</string>
+    <string name="image_of_winx">Image Winx</string>
 </resources>
